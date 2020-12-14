@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="29px" viewBox="0 0 23 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>phone-action-camera-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Footer" transform="translate(-1243.000000, -412.000000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="phone-action-camera-1" transform="translate(1244.000000, 413.000000)">
+                <path d="M14,22 L0,22" id="Shape"></path>
+                <path d="M7.25,24 L7.25,24 C7.38807119,24 7.5,24.1119288 7.5,24.25 L7.5,24.25 C7.5,24.3880712 7.38807119,24.5 7.25,24.5 L7.25,24.5 C7.11192881,24.5 7,24.3880712 7,24.25 L7,24.25 C7,24.1119288 7.11192881,24 7.25,24" id="Shape"></path>
+                <path d="M14,17.0217391 L14,24.6521739 C14,25.9488425 13.0356902,27 11.8461538,27 L2.15384615,27 C0.96430977,27 0,25.9488425 0,24.6521739 L0,2.34782609 C0,1.05115754 0.96430977,2.60661058e-16 2.15384615,0 L7.53846154,0" id="Shape"></path>
+                <path d="M21,3.83333333 L17.75,5.05555556 L17.75,3.83333333 C17.75,2.82081129 17.0224627,2 16.125,2 L9.625,2 C8.72753728,2 8,2.82081129 8,3.83333333 L8,11.1666667 C8,12.1791887 8.72753728,13 9.625,13 L16.125,13 C17.0224627,13 17.75,12.1791887 17.75,11.1666667 L17.75,9.94444444 L21,11.1666667 L21,3.83333333 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

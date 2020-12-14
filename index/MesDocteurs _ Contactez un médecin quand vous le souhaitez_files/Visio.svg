@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="22px" viewBox="0 0 25 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Visio</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ChipVisio" transform="translate(-21.000000, -7.000000)" stroke="#263444">
+            <g id="Visio" transform="translate(22.000000, 8.000000)">
+                <g id="Group-13">
+                    <path d="M11.5,0.25005 C11.293,0.25005 11.125,0.41805 11.125,0.62505 C11.125,0.83205 11.293,1.00005 11.5,1.00005 C11.707,1.00005 11.875,0.83205 11.875,0.62505 C11.875,0.41805 11.707,0.25005 11.5,0.25005" id="Stroke-1"></path>
+                    <path d="M11.5,5.50005 C12.743,5.50005 13.75,6.50705 13.75,7.75005 C13.75,8.99305 12.743,10.00005 11.5,10.00005 C10.257,10.00005 9.25,8.99305 9.25,7.75005 C9.25,6.50705 10.257,5.50005 11.5,5.50005 Z" id="Stroke-3"></path>
+                    <path d="M15.25,13.00005 C14.145,10.92855 11.571,10.14505 9.5,11.25005 C8.756,11.64705 8.147,12.25605 7.75,13.00005" id="Stroke-5"></path>
+                    <path d="M15.25,1.00005 L21.25,1.00005 C22.078,1.00005 22.75,1.67205 22.75,2.50005 L22.75,14.50005 C22.75,15.32805 22.078,16.00005 21.25,16.00005 L1.75,16.00005 C0.922,16.00005 0.25,15.32805 0.25,14.50005 L0.25,2.50005 C0.25,1.67205 0.922,1.00005 1.75,1.00005 L7.75,1.00005" id="Stroke-7"></path>
+                    <polygon id="Stroke-9" points="15.25 20.50005 7.75 20.50005 8.5 16.00005 14.5 16.00005"></polygon>
+                    <path d="M5.5,20.50005 L17.5,20.50005" id="Stroke-11"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

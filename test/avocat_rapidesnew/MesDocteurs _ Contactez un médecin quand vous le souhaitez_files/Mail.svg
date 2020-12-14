@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ChipQuestion" transform="translate(-21.000000, -6.000000)" stroke="#263444">
+            <g id="Mail" transform="translate(22.000000, 7.000000)">
+                <g id="Group-9">
+                    <path d="M4.75,0.2499 L21.25,0.2499 C22.078,0.2499 22.75,0.9219 22.75,1.7499 L22.75,18.2499 C22.75,19.0779 22.078,19.7499 21.25,19.7499 L4.75,19.7499 C3.922,19.7499 3.25,19.0779 3.25,18.2499 L3.25,1.7499 C3.25,0.9219 3.922,0.2499 4.75,0.2499 Z" id="Stroke-1"></path>
+                    <path d="M19.75,22.75015 L1.75,22.75015 C0.922,22.75015 0.25,22.07765 0.25,21.25015 L0.25,3.25015" id="Stroke-3"></path>
+                    <path d="M18.25,7.7499 L18.25,13.7499 C18.25,14.5779 17.578,15.2499 16.75,15.2499 L9.25,15.2499 C8.422,15.2499 7.75,14.5779 7.75,13.7499 L7.75,7.7499" id="Stroke-5"></path>
+                    <path d="M18.25,7.7499 C18.25,6.9219 17.578,6.2499 16.75,6.2499 L9.25,6.2499 C8.422,6.2499 7.75,6.9219 7.75,7.7499 L12.205,10.5229 C12.691,10.8269 13.309,10.8269 13.795,10.5229 L18.25,7.7499 Z" id="Stroke-7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
